@@ -1,0 +1,3 @@
+gcloud
+google-api-python-client==1.5.0
+oauth2client==2.0.2

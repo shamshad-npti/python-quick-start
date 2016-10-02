@@ -1,0 +1,11 @@
+{
+  "SCOPES": {
+    "STORAGE" : {
+      "READ_ONLY" : "https://www.googleapis.com/auth/devstorage.read_only",
+      "READ_WRITE" : "https://www.googleapis.com/auth/devstorage.read_write",
+      "FULL_CONTROL" : "https://www.googleapis.com/auth/devstorage.full_control",
+      "CLOUD_PLATFORM" : "https://www.googleapis.com/auth/cloud-platform",
+      "CLOUD_PLATFORM.READ_ONLY" : "https://www.googleapis.com/auth/cloud-platform.read-only"
+    }
+  }
+}

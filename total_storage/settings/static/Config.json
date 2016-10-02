@@ -1,0 +1,33 @@
+
+{
+    "telstra-ma" : {
+		"json_key_file" : "./settings/telstra-ma.json"
+	},
+	"media-attribution" : {
+		"json_key_file" : "./settings/media-attribution.json"
+	},
+	"dc-facebook" : {
+		"json_key_file" : "./settings/dc-facebook.json"		
+	},
+	"dc-expedia" : {
+		"json_key_file" : "./settings/dc-expedia.json"		
+	},
+	"dc-iag" : {
+		"json_key_file" : "./settings/dc-iag.json"
+	},
+	"dc-nikon" : {
+		"json_key_file" : "./settings/dc-nikon.json"		
+	},
+	"amp-001" : {
+		"json_key_file" : "./settings/amp-001.json"		
+	}, 
+	"bupa-ma" : {
+		"json_key_file" : "./settings/bupa-ma.json"		
+	},
+	"embracepet-001" : {
+		"json_key_file" : "./settings/embrace-pet.json"		
+	},
+	"udcollect" : {
+		"json_key_file" : "./settings/universal-data-collector.json"		
+	}
+}
